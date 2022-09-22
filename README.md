@@ -1,3 +1,44 @@
+# Projects 1 :- Project - Laptop Price Predictor
+
+Predict the real price of laptops with the help of machine learning algorithms :- 
+LinearRegression :- R2 score 0.8074506018049022
+                    MAE 0.2122503952385465, 
+                    
+LassoRegression : - R2 score 0.811754271794283
+                    MAE 0.21205015306623548, 
+         
+RidgeRegression :- R2 score 0.8064891585365469
+                   MAE 0.213768247710368,
+
+KNeighborsRegressor : - R2 score 0.8454734994948784
+                        MAE 0.18492764033591505,
+DecisionTreeRegressor :- R2 score 0.8435243002848313
+                        MAE 0.1844079917348368
+
+GradientBoostingRegressor :- R2 score 0.874759129389938
+                             MAE 0.16101420951437317
+                             
+AdaBoostRegressor :- R2 score 0.7994748643777558
+                     MAE 0.22813957593189266
+
+ExtraTreesRegressor :- R2 score 0.8675695120219593
+                       MAE 0.1647464237617599
+
+SVR :- R2 score 0.7866502172036324
+       MAE 0.19257266692009348
+
+XGBRegressor :- R2 score 0.881576199606356
+                MAE 0.15556136763391942
+
+
+RandomForestRegressor :-R2 score 0.8979050104846402
+                        MAE 0.15129459164829062
+
+These all tries in one projects to check which is the best algorithm comparing on basis of r2_score , and when I deploy all these algos one by on at last I get best r2score of RandomForestRegressor algorithm :- 
+
+
+
+
 # Projects 2 :- Project - Customer Segmentation 
 
 Collection of My projects , in python , machine learning, deep learning and NLP
