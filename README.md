@@ -57,7 +57,7 @@ frequency and monetary total of their recent transactions to identify the best c
 and perform targeted marketing campaigns.
 
 
-Project 3 : - Spam mail detection
+# Project 3 : - Spam mail detection
 
 Problem :
 
