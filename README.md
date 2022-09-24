@@ -64,8 +64,15 @@ Problem :
 Social communication has evolved, with e-mail still being one of the most common communication means, used for both formal and informal ways. With the increased usage of emails, variety of spam content also increase. Spam emails are inappropriate and unwanted messages usually sent to breach security. These spam emails include phishing URLs, advertisements, commercial segments, and a large number of indiscriminate recipients. Thus, such content is always a hazard for the user, and many studies have taken place to detect such spam content. However, there is a dire need to detect spam emails, which have content written in english language. The proposed project utilizes the existing machine learning algorithm Logistic Regression. According to my findings, the Logistic Regression model performs with a highest score of 96.40% accuracy.
 
 
+# DL_project_Breast_Cancer_ANN  
 
+Breast cancer is the commonest cancer in women and one of the most common causes of cancer-related mortality in women worldwide (Ferlay et al., 2010). Proper diagnosis of breast cancer is attained by integration of several clinical variables and mammographic features. An ideal diagnostic system must discriminate between benign and malignant masses (Ayer et al., 2010).
 
+The aim of the present project is to assess whether an ANN trained on a large retrospectively collected dataset of consecutive mammography findings can distinguish between benign and malignant cases and accurately predict the probability of breast cancer for individual patients
+ 
+ Result : - loss: 0.1273 - accuracy: 0.9737.     my model is 97.37 accurate on the test data , i have applied this model on 2 random data points and checked that, model whether can predict benign or malignant cancer type accurately,  we can see in notebook.
+ for 1st data point it is predicted as Malignant cancer type
+ and for the second data point model predicted as Benign cancer.
 
 
 
